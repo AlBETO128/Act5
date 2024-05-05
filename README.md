@@ -19,10 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Resultados
-- ![image](https://github.com/Aric-Mirray-Capistran-Tenorio/Act5-Diseno-0442/assets/143548368/d64be9e1-7780-40d4-a73b-55e5fd52b7b6)
-- ![image](https://github.com/Aric-Mirray-Capistran-Tenorio/Act5-Diseno-0442/assets/143548368/64b9e85f-41e2-40b7-b61c-e18463a91b9b)
-- ![image](https://github.com/Aric-Mirray-Capistran-Tenorio/Act5-Diseno-0442/assets/143548368/91a7c88a-2f5b-4a32-bfdb-7a0aefcc5fe8)
-- ![image](https://github.com/Aric-Mirray-Capistran-Tenorio/Act5-Diseno-0442/assets/143548368/d52d469a-656a-4024-9f46-85fadf17625c)
+![image](https://github.com/AlBETO128/Act5/assets/143547229/a19b239c-5e28-4cbc-8548-61b4e9da1012)
+![image](https://github.com/AlBETO128/Act5/assets/143547229/f4da5258-7a8b-4077-8311-abf64c0e346b)
+![image](https://github.com/AlBETO128/Act5/assets/143547229/4da5bd89-a605-43c8-b0e4-a612fa476f08)
+![image](https://github.com/AlBETO128/Act5/assets/143547229/f5f727ae-2431-416b-a334-7084f3213fbf)
+![image](https://github.com/AlBETO128/Act5/assets/143547229/cf28f114-501b-4cd9-ac00-3a8ac8cd005e)
 
 
 
